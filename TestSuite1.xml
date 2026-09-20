@@ -1,0 +1,28 @@
+
+<suite thread-count="5" name="Suite" parallel="tests">
+<listeners>
+<listener class-name="Utilities.ExtentReportManager"/>
+</listeners>
+
+   <!--  test  name="Test_Chrome">
+  <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="Module_1_CPOV_Test_Classes.FCA_Test_Class"/>
+    </classes>
+  </test> <! Test -->
+  
+  <test  name="Test_Edge">
+  <parameter name="browserName" value="Edge"/>
+    <classes>
+      <class name="Module_1_CPOV_Test_Classes.FCA_Test_Class"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <!--  test  name="Test_Firefox">
+  <parameter name="browserName" value="Firefox"/>
+    <classes>
+      <class name="Module_1_CPOV_Test_Classes.FCA_Test_Class"/>
+    </classes>
+  </test> <! Test -->
+  
+</suite> <!-- Suite -->
