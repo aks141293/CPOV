@@ -67,7 +67,7 @@ public class ExtentReportManager implements ITestListener
         // Set system information
         extent.setSystemInfo("Application", "CPOV");
 
-        extent.setSystemInfo("Module", "RAM");
+        extent.setSystemInfo("Module", "Chrysler");
 
         extent.setSystemInfo("Environment", "Production");
 

@@ -4,12 +4,12 @@
 <listener class-name="Utilities.ExtentReportManager"/>
 </listeners>
 
-   <!--  test  name="Test_Chrome">
+   <test  name="Test_Chrome">
   <parameter name="browserName" value="Chrome"/>
     <classes>
       <class name="Module_1_CPOV_Test_Classes.FCA_Test_Class"/>
     </classes>
-  </test> <! Test -->
+  </test> <!-- Test -->
   
   <test  name="Test_Edge">
   <parameter name="browserName" value="Edge"/>
