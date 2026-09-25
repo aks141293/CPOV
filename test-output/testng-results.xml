@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-09-24T16:51:37 IST" name="Suite" finished-at="2026-09-24T16:52:22 IST" duration-ms="44340">
+  <suite started-at="2026-09-25T17:47:49 IST" name="Suite" finished-at="2026-09-25T17:48:42 IST" duration-ms="53176">
     <groups>
     </groups>
-    <test started-at="2026-09-24T16:51:37 IST" name="Test_Edge" finished-at="2026-09-24T16:52:22 IST" duration-ms="44340">
+    <test started-at="2026-09-25T17:47:49 IST" name="Test_Edge" finished-at="2026-09-25T17:48:42 IST" duration-ms="53176">
       <class name="Module_1_CPOV_Test_Classes.FCA_Test_Class">
-        <test-method is-config="true" signature="OpenBrowser(java.lang.String)[pri:0, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class@3bb9a3ff]" started-at="2026-09-24T16:51:38 IST" name="OpenBrowser" finished-at="2026-09-24T16:51:42 IST" duration-ms="4772" status="PASS">
+        <test-method is-config="true" signature="OpenBrowser(java.lang.String)[pri:0, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class@3bb9a3ff]" started-at="2026-09-25T17:47:49 IST" name="OpenBrowser" finished-at="2026-09-25T17:47:55 IST" duration-ms="5271" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,19 +18,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBrowser -->
-        <test-method signature="VerifytheHomePage()[pri:1, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class@3bb9a3ff]" started-at="2026-09-24T16:51:42 IST" name="VerifytheHomePage" finished-at="2026-09-24T16:51:49 IST" duration-ms="6338" status="PASS">
+        <test-method signature="VerifytheHomePage()[pri:1, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class@3bb9a3ff]" started-at="2026-09-25T17:47:55 IST" name="VerifytheHomePage" finished-at="2026-09-25T17:48:07 IST" duration-ms="12499" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifytheHomePage -->
-        <test-method signature="VerifytheSNIPage()[pri:2, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class@3bb9a3ff]" started-at="2026-09-24T16:51:49 IST" name="VerifytheSNIPage" finished-at="2026-09-24T16:52:01 IST" duration-ms="12073" status="PASS">
+        <test-method signature="VerifytheSNIPage()[pri:2, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class@3bb9a3ff]" started-at="2026-09-25T17:48:07 IST" name="VerifytheSNIPage" finished-at="2026-09-25T17:48:21 IST" duration-ms="14196" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifytheSNIPage -->
-        <test-method signature="verfiytheVDP()[pri:3, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class@3bb9a3ff]" started-at="2026-09-24T16:52:01 IST" name="verfiytheVDP" finished-at="2026-09-24T16:52:21 IST" duration-ms="20487" status="PASS">
+        <test-method signature="verfiytheVDP()[pri:3, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class@3bb9a3ff]" started-at="2026-09-25T17:48:21 IST" name="verfiytheVDP" finished-at="2026-09-25T17:48:42 IST" duration-ms="20223" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verfiytheVDP -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class@3bb9a3ff]" started-at="2026-09-24T16:52:21 IST" name="CloseBrowser" finished-at="2026-09-24T16:52:22 IST" duration-ms="437" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class@3bb9a3ff]" started-at="2026-09-25T17:48:42 IST" name="CloseBrowser" finished-at="2026-09-25T17:48:42 IST" duration-ms="644" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
