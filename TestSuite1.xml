@@ -7,14 +7,14 @@
    <!--  test  name="Test_Chrome">
   <parameter name="browserName" value="Chrome"/>
     <classes>
-      <class name="Module_1_CPOV_Test_Classes.FCA_Test_Class"/>
+      <class name="Module_1_CPOV_Test_Classes.FCA_Test_Class_1"/>
     </classes>
   </test> <! Test -->
   
   <test  name="Test_Edge">
   <parameter name="browserName" value="Edge"/>
     <classes>
-      <class name="Module_1_CPOV_Test_Classes.FCA_Test_Class"/>
+      <class name="Module_1_CPOV_Test_Classes.FCA_Test_Class_1"/>
     </classes>
   </test> <!-- Test -->
   

@@ -108,7 +108,7 @@ public class EmailReport {
 
                     + "<p>"
                     + "Please find attached the latest "
-                    + "CPOV RAM Automation Smoke Test Execution Report."
+                    + "CPOV Chrysler Automation Smoke Test Execution Report."
                     + "</p>"
 
                     + "<table border='1' cellpadding='8' "

@@ -19,13 +19,13 @@ public class FCA_Home_Page
 	
 	@FindBy(xpath="(//img[@title='Chrysler'])[3]") private WebElement BrandLogoChrysler;
 	
-	@FindBy(xpath="(//img[@title='Dodge'])[3]") private WebElement BrandLogoDodge;
+	/*@FindBy(xpath="(//img[@title='Dodge'])[3]") private WebElement BrandLogoDodge;
 	
 	@FindBy(xpath="(//img[@title='Fiat'])[3]") private WebElement BrandLogoFiat;
 	
 	@FindBy(xpath="(//img[@title='Jeep'])[3]") private WebElement BrandLogoJeep;
 	
-	@FindBy(xpath="(//img[@title='Ram'])[3]") private WebElement BrandLogoRAM;
+	@FindBy(xpath="(//img[@title='Ram'])[3]") private WebElement BrandLogoRAM;*/
 	
 	@FindBy(xpath="//button[text()='Submit']") private WebElement SUBMIT;
 	
@@ -53,10 +53,10 @@ public class FCA_Home_Page
 	{
 		BrandLogoAlfa.click();
 		BrandLogoChrysler.click();
-		BrandLogoDodge.click();
+		/*BrandLogoDodge.click();
 		BrandLogoFiat.click();
 		BrandLogoJeep.click();
-		BrandLogoRAM.click();
+		BrandLogoRAM.click();*/
 	}
 	
 	public void ClickOnSubmitButton()
