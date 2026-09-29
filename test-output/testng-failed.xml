@@ -18,4 +18,18 @@
       </class> <!-- Module_1_CPOV_Test_Classes.FCA_Test_Class_1 -->
     </classes>
   </test> <!-- Test_Edge(failed) -->
+  <test thread-count="5" parallel="tests" name="Test_Chrome(failed)">
+    <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="Module_1_CPOV_Test_Classes.FCA_Test_Class_1">
+        <methods>
+          <include name="VerifyDealerFilter"/>
+          <include name="CloseBrowser"/>
+          <include name="OpenBrowser"/>
+          <include name="VerifytheHomePage"/>
+          <include name="VerifySNIPage"/>
+        </methods>
+      </class> <!-- Module_1_CPOV_Test_Classes.FCA_Test_Class_1 -->
+    </classes>
+  </test> <!-- Test_Chrome(failed) -->
 </suite> <!-- Failed suite [Suite] -->
