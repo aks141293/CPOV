@@ -25,7 +25,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -92,7 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">18 methods, 2 failed,   16 passed</span>
+                    <span class="method-stats">18 methods, 1 failed,   17 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -101,11 +101,6 @@
                       <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
                     </span>
                     <div class="method-list-content failed suite-Suite">
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="Module_1_CPOV_Test_Classes.FCA_Test_Class_1" class="method navigator-link" hash-for-method="VerifyDealerFilter">VerifyDealerFilter</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
                       <span>
                         <img src="failed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="Module_1_CPOV_Test_Classes.FCA_Test_Class_1" class="method navigator-link" hash-for-method="VerifyYearFilter">VerifyYearFilter</a> <!-- method navigator-link -->
@@ -133,6 +128,11 @@
                       <span>
                         <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="Module_1_CPOV_Test_Classes.FCA_Test_Class_1" class="method navigator-link" hash-for-method="VerifyContinueShopping">VerifyContinueShopping</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="Module_1_CPOV_Test_Classes.FCA_Test_Class_1" class="method navigator-link" hash-for-method="VerifyDealerFilter">VerifyDealerFilter</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -220,54 +220,18 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="VerifyDealerFilter">
-                  </a> <!-- VerifyDealerFilter -->
-                  <span class="method-name">VerifyDealerFilter</span>
-                  <div class="stack-trace">org.openqa.selenium.ElementNotInteractableException: element not interactable
-  (Session info: MicrosoftEdge=154.0.4258.37)
-Build info: version: &apos;4.47.0&apos;, revision: &apos;9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35&apos;
-System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;25.0.2&apos;
-Driver info: org.openqa.selenium.edge.EdgeDriver
-Command: [049918c1ce98fa0db6e46af94edfb263, clickElement {id=f.C2856F1C902F437B06171C1E7F1107EC.d.40980DFAC153394E69A4246318969827.e.522}]
-Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 154.0.4258.37, fedcm:accounts: true, goog:processID: 3256, ms:edgeOptions: {debuggerAddress: localhost:64478}, msedge: {msedgedriverVersion: 154.0.4258.48 (80bb122d4912..., userDataDir: C:\Users\AKASHK~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64478/devtoo..., se:cdpVersion: 154.0.4258.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[EdgeDriver: MicrosoftEdge on windows (049918c1ce98fa0db6e46af94edfb263)] -&gt; xpath: //div[@class=&apos;see-less&apos;]]
-Session ID: 049918c1ce98fa0db6e46af94edfb263
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:196)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:653)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:225)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy31.click(Unknown Source)
-	at Module_1_CPOV.FCA_SNI_Page.ClickOnShowLessDealer(FCA_SNI_Page.java:169)
-	at Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyDealerFilter(FCA_Test_Class_1.java:125)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-... Removed 17 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
                   <a name="VerifyYearFilter">
                   </a> <!-- VerifyYearFilter -->
                   <span class="method-name">VerifyYearFilter</span>
-                  <div class="stack-trace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (295, 543)
-  (Session info: MicrosoftEdge=154.0.4258.37)
+                  <div class="stack-trace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;span class=&quot;radiomark&quot;&gt;&lt;/span&gt; is not clickable at point (75, 432). Other element would receive the click: &lt;div class=&quot;c-accordion__entry-contents c-wysiwyg year_filter_box&quot;&gt;...&lt;/div&gt;
+  (Session info: MicrosoftEdge=154.0.4258.48)
 Build info: version: &apos;4.47.0&apos;, revision: &apos;9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35&apos;
 System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;25.0.2&apos;
 Driver info: org.openqa.selenium.edge.EdgeDriver
-Command: [049918c1ce98fa0db6e46af94edfb263, clickElement {id=f.C2856F1C902F437B06171C1E7F1107EC.d.40980DFAC153394E69A4246318969827.e.514}]
-Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 154.0.4258.37, fedcm:accounts: true, goog:processID: 3256, ms:edgeOptions: {debuggerAddress: localhost:64478}, msedge: {msedgedriverVersion: 154.0.4258.48 (80bb122d4912..., userDataDir: C:\Users\AKASHK~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64478/devtoo..., se:cdpVersion: 154.0.4258.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[EdgeDriver: MicrosoftEdge on windows (049918c1ce98fa0db6e46af94edfb263)] -&gt; xpath: (//div[@class=&apos;c-accordion__entry-header-icon-wrapper&apos;])[2]]
-Session ID: 049918c1ce98fa0db6e46af94edfb263
+Command: [207709f174465e52f88c1c83ec98bef2, clickElement {id=f.C190D7B31B0952AC49AA6A00F0F2EBFC.d.FBDCBC34E98FF3A18A235802B1753DC2.e.622}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 154.0.4258.48, fedcm:accounts: true, goog:processID: 14776, ms:edgeOptions: {debuggerAddress: localhost:58410}, msedge: {msedgedriverVersion: 154.0.4258.48 (80bb122d4912..., userDataDir: C:\Users\AKASHK~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58410/devtoo..., se:cdpVersion: 154.0.4258.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (207709f174465e52f88c1c83ec98bef2)] -&gt; xpath: (//span[@class=&apos;radiomark&apos;])[1]]
+Session ID: 207709f174465e52f88c1c83ec98bef2
 	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
@@ -279,8 +243,8 @@ Session ID: 049918c1ce98fa0db6e46af94edfb263
 	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
 	at jdk.proxy2/jdk.proxy2.$Proxy31.click(Unknown Source)
-	at Module_1_CPOV.FCA_SNI_Page.ClickOnOpenYear(FCA_SNI_Page.java:184)
-	at Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyYearFilter(FCA_Test_Class_1.java:139)
+	at Module_1_CPOV.FCA_SNI_Page.ClickOnYearValue1(FCA_SNI_Page.java:189)
+	at Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyYearFilter(FCA_Test_Class_1.java:142)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
@@ -317,6 +281,13 @@ Session ID: 049918c1ce98fa0db6e46af94edfb263
                   <a name="VerifyContinueShopping">
                   </a> <!-- VerifyContinueShopping -->
                   <span class="method-name">VerifyContinueShopping</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="VerifyDealerFilter">
+                  </a> <!-- VerifyDealerFilter -->
+                  <span class="method-name">VerifyDealerFilter</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -472,80 +443,80 @@ data.addRows(18);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'VerifyVDPPage')
 data.setCell(0, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(0, 3, 13941);
+data.setCell(0, 3, 10223);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'VerifyDealerFilter')
+data.setCell(1, 1, 'VerifytheHomePage')
 data.setCell(1, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(1, 3, 12494);
+data.setCell(1, 3, 10142);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'VerifytheHomePage')
+data.setCell(2, 1, 'VerifyContinueShopping')
 data.setCell(2, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(2, 3, 6102);
+data.setCell(2, 3, 4705);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'VerifyZipCodeUpdate')
 data.setCell(3, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(3, 3, 1464);
+data.setCell(3, 3, 2367);
 data.setCell(4, 0, 4)
 data.setCell(4, 1, 'VerifyYearFilter')
 data.setCell(4, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(4, 3, 1080);
+data.setCell(4, 3, 1451);
 data.setCell(5, 0, 5)
 data.setCell(5, 1, 'VerifyPaymentCalculator')
 data.setCell(5, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(5, 3, 925);
+data.setCell(5, 3, 1164);
 data.setCell(6, 0, 6)
-data.setCell(6, 1, 'VerifyTestDriveSection')
+data.setCell(6, 1, 'VerifyDealerFilter')
 data.setCell(6, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(6, 3, 752);
+data.setCell(6, 3, 1092);
 data.setCell(7, 0, 7)
-data.setCell(7, 1, 'VerifyCashTab')
+data.setCell(7, 1, 'VerifyTestDriveSection')
 data.setCell(7, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(7, 3, 343);
+data.setCell(7, 3, 875);
 data.setCell(8, 0, 8)
-data.setCell(8, 1, 'VerifyTradeIn')
+data.setCell(8, 1, 'VerifyMatchFilters')
 data.setCell(8, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(8, 3, 295);
+data.setCell(8, 3, 575);
 data.setCell(9, 0, 9)
-data.setCell(9, 1, 'VerifyCPOVSelection')
+data.setCell(9, 1, 'VerifySortByFunctionality')
 data.setCell(9, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(9, 3, 276);
+data.setCell(9, 3, 563);
 data.setCell(10, 0, 10)
-data.setCell(10, 1, 'VerifySortByFunctionality')
+data.setCell(10, 1, 'VerifyCPOVSelection')
 data.setCell(10, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(10, 3, 274);
+data.setCell(10, 3, 477);
 data.setCell(11, 0, 11)
-data.setCell(11, 1, 'VerifyMatchFilters')
+data.setCell(11, 1, 'VerifyCashTab')
 data.setCell(11, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(11, 3, 259);
+data.setCell(11, 3, 425);
 data.setCell(12, 0, 12)
 data.setCell(12, 1, 'VerifyDriveSection')
 data.setCell(12, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(12, 3, 181);
+data.setCell(12, 3, 402);
 data.setCell(13, 0, 13)
-data.setCell(13, 1, 'VerifyResetFilter')
+data.setCell(13, 1, 'VerifyTradeIn')
 data.setCell(13, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(13, 3, 132);
+data.setCell(13, 3, 279);
 data.setCell(14, 0, 14)
-data.setCell(14, 1, 'VerifyDeliveryReviewAndSubmit')
+data.setCell(14, 1, 'VerifyResetFilter')
 data.setCell(14, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(14, 3, 109);
+data.setCell(14, 3, 250);
 data.setCell(15, 0, 15)
-data.setCell(15, 1, 'VerifyServiceAndProtection')
+data.setCell(15, 1, 'VerifyDeliveryReviewAndSubmit')
 data.setCell(15, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(15, 3, 104);
+data.setCell(15, 3, 182);
 data.setCell(16, 0, 16)
 data.setCell(16, 1, 'VerifySNIPage')
 data.setCell(16, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(16, 3, 98);
+data.setCell(16, 3, 177);
 data.setCell(17, 0, 17)
-data.setCell(17, 1, 'VerifyContinueShopping')
+data.setCell(17, 1, 'VerifyServiceAndProtection')
 data.setCell(17, 2, 'Module_1_CPOV_Test_Classes.FCA_Test_Class_1')
-data.setCell(17, 3, 80);
+data.setCell(17, 3, 157);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 44 seconds</span>
+              <span class="suite-total-time">Total running time: 43 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -578,83 +549,81 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">VerifytheHomePage</span>
-                <span class="method-start">4671 ms</span>
+                <span class="method-start">6470 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifySNIPage</span>
-                <span class="method-start">10786 ms</span>
+                <span class="method-start">16684 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyCPOVSelection</span>
-                <span class="method-start">10886 ms</span>
+                <span class="method-start">16864 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyZipCodeUpdate</span>
-                <span class="method-start">11162 ms</span>
+                <span class="method-start">17345 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyMatchFilters</span>
-                <span class="method-start">12637 ms</span>
+                <span class="method-start">19722 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifySortByFunctionality</span>
-                <span class="method-start">12901 ms</span>
+                <span class="method-start">20302 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
                 <span class="method-name">VerifyDealerFilter</span>
-                <span class="method-start">13176 ms</span>
+                <span class="method-start">20870 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">VerifyYearFilter</span>
-                <span class="method-start">25684 ms</span>
+                <span class="method-start">21962 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyDriveSection</span>
-                <span class="method-start">26764 ms</span>
+                <span class="method-start">23431 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyResetFilter</span>
-                <span class="method-start">26947 ms</span>
+                <span class="method-start">23833 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyContinueShopping</span>
-                <span class="method-start">27079 ms</span>
+                <span class="method-start">24087 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyVDPPage</span>
-                <span class="method-start">27161 ms</span>
+                <span class="method-start">28796 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyCashTab</span>
-                <span class="method-start">41102 ms</span>
+                <span class="method-start">39023 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyTestDriveSection</span>
-                <span class="method-start">41456 ms</span>
+                <span class="method-start">39452 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyPaymentCalculator</span>
-                <span class="method-start">42211 ms</span>
+                <span class="method-start">40327 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyTradeIn</span>
-                <span class="method-start">43143 ms</span>
+                <span class="method-start">41495 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyServiceAndProtection</span>
-                <span class="method-start">43441 ms</span>
+                <span class="method-start">41777 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">VerifyDeliveryReviewAndSubmit</span>
-                <span class="method-start">43547 ms</span>
+                <span class="method-start">41934 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">CloseBrowser</span>
-                <span class="method-start">43656 ms</span>
+                <span class="method-start">42117 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

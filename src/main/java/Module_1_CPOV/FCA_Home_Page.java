@@ -25,7 +25,7 @@ public class FCA_Home_Page
 	
 	@FindBy(xpath="(//img[@title='Jeep'])[3]") private WebElement BrandLogoJeep;
 	
-	@FindBy(xpath="(//img[@title='Ram'])[3]") private WebElement BrandLogoRAM;
+	//@FindBy(xpath="(//img[@title='Ram'])[3]") private WebElement BrandLogoRAM;
 	
 	@FindBy(xpath="//button[text()='Submit']") private WebElement SUBMIT;
 	
@@ -56,7 +56,7 @@ public class FCA_Home_Page
 		BrandLogoDodge.click();
 		BrandLogoFiat.click();
 		BrandLogoJeep.click();
-		BrandLogoRAM.click();
+		//BrandLogoRAM.click();
 	}
 	
 	public void ClickOnSubmitButton()

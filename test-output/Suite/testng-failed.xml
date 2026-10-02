@@ -9,7 +9,6 @@
     <classes>
       <class name="Module_1_CPOV_Test_Classes.FCA_Test_Class_1">
         <methods>
-          <include name="VerifyDealerFilter"/>
           <include name="CloseBrowser"/>
           <include name="OpenBrowser"/>
           <include name="VerifyYearFilter"/>
