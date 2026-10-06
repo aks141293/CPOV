@@ -51,7 +51,7 @@ public class FCA_SNI_Page
    
    @FindBy(xpath="//div[@class='see-less']") private WebElement ShowLessDealer;
    
-   @FindBy(xpath="(//span[@class='checkmark'])[3]") private WebElement CheckDealerCheckBox;
+   @FindBy(xpath="(//input[@id='dealersCode'])[1]") private WebElement CheckDealerCheckBox;
    
    @FindBy(xpath="(//span[@class='checkmark'])[3]") private WebElement UncheckDealerCheckBox;
    
