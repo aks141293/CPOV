@@ -4538,3 +4538,1214 @@
 2026-10-06 17:38:21 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
 2026-10-06 17:38:21 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
 2026-10-06 17:38:21 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-07 16:48:35 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-07 16:48:36 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-07 16:48:36 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-07 16:48:36 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-07 16:48:36 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-07 16:48:36 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-07 16:48:36 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-07 16:48:36 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-07 16:48:37 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-07 16:48:37 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-07 16:48:38 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-07 16:48:38 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-07 16:48:38 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-07 16:48:38 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-07 16:49:48 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-07 16:49:48 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-07 16:49:48 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-07 16:49:48 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-07 16:49:48 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-07 16:49:48 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-07 16:49:48 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-07 16:49:48 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-07 16:49:49 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-07 16:49:49 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-07 16:49:54 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-07 16:49:54 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-07 16:49:54 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-07 16:49:54 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-07 16:49:55 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-07 16:49:55 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-07 16:49:55 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-07 16:49:55 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-07 16:49:55 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-07 16:49:57 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-07 16:49:58 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-07 16:49:58 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-07 16:49:58 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-07 16:49:58 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-07 16:50:00 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-07 16:50:00 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-07 16:50:00 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-07 16:50:00 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-07 16:50:00 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-07 16:50:00 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-07 16:50:00 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-07 16:50:00 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-07 16:50:01 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-07 16:50:10 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-07 16:50:10 INFO  FCA_Test_Class_1:143 - User selected Year Value 1
+2026-10-07 16:50:11 INFO  FCA_Test_Class_1:146 - User selected Year Value 2
+2026-10-07 16:50:11 INFO  FCA_Test_Class_1:149 - User selected Year Value 3
+2026-10-07 16:50:11 INFO  FCA_Test_Class_1:152 - User closed Year section
+2026-10-07 16:50:11 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-07 16:50:11 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-07 16:50:11 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-07 16:50:11 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-07 16:50:11 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-07 16:50:13 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-07 16:50:13 INFO  FCA_Test_Class_1:143 - User selected Year Value 1
+2026-10-07 16:50:13 INFO  FCA_Test_Class_1:146 - User selected Year Value 2
+2026-10-07 16:50:13 INFO  FCA_Test_Class_1:149 - User selected Year Value 3
+2026-10-07 16:50:14 INFO  FCA_Test_Class_1:152 - User closed Year section
+2026-10-07 16:50:14 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-07 16:50:14 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-07 16:50:14 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-07 16:50:19 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-07 16:50:19 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-07 16:50:25 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-07 16:50:25 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-07 16:50:25 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-07 16:50:26 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-07 16:50:26 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-07 16:50:26 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-07 16:50:27 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-07 16:50:27 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-07 16:50:27 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-07 16:50:27 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-07 16:50:27 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-07 16:50:28 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-07 16:50:28 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-07 16:50:29 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-07 16:50:29 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-07 16:50:30 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-07 16:50:30 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-07 16:50:30 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-07 16:50:31 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-07 16:50:31 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-07 16:50:31 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-07 16:50:31 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-08 13:34:41 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-08 13:34:41 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-08 13:34:41 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-08 13:34:41 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-08 13:34:42 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-08 13:34:42 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-08 13:34:42 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-08 13:34:42 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-08 13:34:42 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-08 13:34:43 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-08 13:34:48 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-08 13:34:49 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-08 13:34:49 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-08 13:34:49 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-08 13:34:50 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-08 13:34:50 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-08 13:34:50 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-08 13:34:50 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-08 13:34:50 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-08 13:34:50 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-08 13:34:51 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-08 13:34:51 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-08 13:34:51 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-08 13:34:51 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-08 13:34:51 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-08 13:34:51 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-08 13:34:51 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-08 13:34:51 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-08 13:34:51 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-08 13:34:51 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-08 13:34:51 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-08 13:34:52 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-08 13:34:52 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-08 13:35:04 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-08 13:35:04 INFO  FCA_Test_Class_1:143 - User selected Year Value 1
+2026-10-08 13:35:04 INFO  FCA_Test_Class_1:146 - User selected Year Value 2
+2026-10-08 13:35:04 INFO  FCA_Test_Class_1:149 - User selected Year Value 3
+2026-10-08 13:35:04 INFO  FCA_Test_Class_1:152 - User closed Year section
+2026-10-08 13:35:04 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-08 13:35:05 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-08 13:35:05 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-08 13:35:05 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-08 13:35:05 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-08 13:35:05 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-08 13:35:05 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-08 13:35:05 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-08 13:35:09 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-08 13:35:09 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-08 13:35:19 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-08 13:35:19 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-08 13:35:19 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-08 13:35:20 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-08 13:35:20 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-08 13:35:20 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-08 13:35:20 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-08 13:35:20 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-08 13:35:21 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-08 13:35:21 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-08 13:35:21 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-08 13:35:21 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-08 13:35:21 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-08 13:35:21 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-08 13:35:22 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-08 13:35:22 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-08 13:35:22 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-08 13:35:22 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-08 13:35:22 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-08 13:35:22 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-08 13:35:22 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-08 13:35:22 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-08 16:58:53 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-08 16:58:53 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-08 16:58:53 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-08 16:58:53 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-08 16:58:53 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-08 16:58:53 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-08 16:58:53 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-08 16:58:54 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-08 16:58:54 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-08 16:58:54 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-08 16:59:02 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-08 16:59:02 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-08 16:59:02 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-08 16:59:02 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-08 16:59:02 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-08 16:59:02 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-08 16:59:02 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-08 16:59:02 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-08 16:59:03 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-08 16:59:05 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-08 16:59:05 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-08 16:59:05 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-08 16:59:05 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-08 16:59:05 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-08 16:59:05 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-08 16:59:05 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-08 16:59:05 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-08 16:59:05 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-08 16:59:06 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-08 16:59:06 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-08 16:59:06 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-08 16:59:06 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-08 16:59:06 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-08 16:59:06 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-08 16:59:07 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-08 16:59:07 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-08 16:59:07 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-08 16:59:10 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-08 16:59:10 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-08 16:59:10 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-08 16:59:10 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-08 16:59:11 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-08 16:59:11 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-08 16:59:11 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-08 16:59:11 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-08 16:59:11 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-08 16:59:12 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-08 16:59:18 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-08 16:59:20 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-08 16:59:20 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-08 16:59:20 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-08 16:59:20 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-08 16:59:20 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-08 16:59:24 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-08 16:59:26 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-08 16:59:26 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-08 16:59:26 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-08 16:59:26 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-08 16:59:26 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-08 16:59:36 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-08 16:59:36 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-08 16:59:37 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-08 16:59:37 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-08 16:59:38 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-08 16:59:38 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-08 16:59:38 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-08 16:59:39 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-08 16:59:39 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-08 16:59:39 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-08 16:59:39 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-08 16:59:41 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-08 16:59:42 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-08 16:59:42 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-08 16:59:43 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-08 16:59:43 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-08 16:59:43 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-08 16:59:44 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-08 16:59:44 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-08 16:59:44 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-08 16:59:44 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-08 16:59:44 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-08 17:13:22 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-08 17:13:23 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-08 17:13:23 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-08 17:13:23 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-08 17:13:23 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-08 17:13:23 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-08 17:13:24 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-08 17:13:24 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-08 17:13:24 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-08 17:13:25 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-08 17:13:32 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-08 17:13:32 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-08 17:13:32 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-08 17:13:32 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-08 17:13:32 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-08 17:13:32 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-08 17:13:33 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-08 17:13:33 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-08 17:13:33 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-08 17:13:33 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-08 17:13:33 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-08 17:13:33 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-08 17:13:33 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-08 17:13:34 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-08 17:13:34 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-08 17:13:34 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-08 17:13:34 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-08 17:13:34 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-08 17:13:34 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-08 17:13:35 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-08 17:13:35 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-08 17:13:35 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-08 17:13:35 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-08 17:13:35 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-08 17:13:35 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-08 17:13:35 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-08 17:13:36 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-08 17:13:36 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-08 17:13:36 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-08 17:13:37 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-08 17:13:37 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-08 17:13:37 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-08 17:13:37 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-08 17:13:37 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-08 17:13:38 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-08 17:13:38 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-08 17:13:48 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-08 17:13:48 INFO  FCA_Test_Class_1:143 - User selected Year Value 1
+2026-10-08 17:13:48 INFO  FCA_Test_Class_1:146 - User selected Year Value 2
+2026-10-08 17:13:49 INFO  FCA_Test_Class_1:149 - User selected Year Value 3
+2026-10-08 17:13:49 INFO  FCA_Test_Class_1:152 - User closed Year section
+2026-10-08 17:13:49 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-08 17:13:49 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-08 17:13:49 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-08 17:13:49 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-08 17:13:49 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-08 17:13:50 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-08 17:13:52 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-08 17:13:52 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-08 17:13:52 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-08 17:13:52 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-08 17:13:52 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-08 17:14:06 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-08 17:14:06 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-08 17:14:06 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-08 17:14:07 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-08 17:14:08 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-08 17:14:08 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-08 17:14:08 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-08 17:14:09 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-08 17:14:09 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-08 17:14:09 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-08 17:14:09 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-08 17:14:21 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-08 17:14:22 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-08 17:14:22 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-08 17:14:23 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-08 17:14:23 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-08 17:14:23 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-08 17:14:24 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-08 17:14:24 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-08 17:14:24 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-08 17:14:24 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-08 17:14:24 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-09 17:54:20 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-09 17:54:21 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-09 17:54:21 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-09 17:54:21 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-09 17:54:21 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-09 17:54:21 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-09 17:54:21 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-09 17:54:21 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-09 17:54:21 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-09 17:54:22 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-09 17:54:28 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-09 17:54:29 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-09 17:54:29 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-09 17:54:30 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-09 17:54:31 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-09 17:54:31 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-09 17:54:31 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-09 17:54:31 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-09 17:54:32 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-09 17:54:32 INFO  FCA_Test_Class_1:143 - User selected Year Value 1
+2026-10-09 17:54:32 INFO  FCA_Test_Class_1:146 - User selected Year Value 2
+2026-10-09 17:54:33 INFO  FCA_Test_Class_1:149 - User selected Year Value 3
+2026-10-09 17:54:33 INFO  FCA_Test_Class_1:152 - User closed Year section
+2026-10-09 17:54:33 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-09 17:54:33 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-09 17:54:33 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-09 17:54:33 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-09 17:54:33 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-09 17:54:43 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-09 17:54:43 INFO  FCA_Test_Class_1:143 - User selected Year Value 1
+2026-10-09 17:54:44 INFO  FCA_Test_Class_1:146 - User selected Year Value 2
+2026-10-09 17:54:44 INFO  FCA_Test_Class_1:149 - User selected Year Value 3
+2026-10-09 17:54:44 INFO  FCA_Test_Class_1:152 - User closed Year section
+2026-10-09 17:54:44 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-09 17:54:44 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-09 17:54:44 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-09 17:54:44 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-09 17:54:44 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-09 17:54:48 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-09 17:54:48 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-09 17:54:48 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-09 17:54:49 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-09 17:54:49 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-09 17:54:50 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-09 17:54:50 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-09 17:54:50 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-09 17:54:50 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-09 17:54:50 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-09 17:54:50 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-09 17:55:12 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-09 17:55:12 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-09 17:55:12 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-09 17:55:13 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-09 17:55:13 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-09 17:55:13 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-09 17:55:14 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-09 17:55:14 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-09 17:55:14 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-09 17:55:14 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-09 17:55:14 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-09 18:01:01 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-09 18:01:01 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-09 18:01:01 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-09 18:01:01 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-09 18:01:01 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-09 18:01:02 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-09 18:01:02 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-09 18:01:02 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-09 18:01:02 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-09 18:01:03 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-09 18:01:10 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-09 18:01:10 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-09 18:01:10 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-09 18:01:10 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-09 18:01:11 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-09 18:01:11 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-09 18:01:11 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-09 18:01:11 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-09 18:01:11 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-09 18:01:11 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-09 18:01:11 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-09 18:01:12 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-09 18:01:12 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-09 18:01:12 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-09 18:01:12 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-09 18:01:12 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-09 18:01:12 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-09 18:01:12 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-09 18:01:15 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-09 18:01:15 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-09 18:01:15 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-09 18:01:15 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-09 18:01:15 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-09 18:01:16 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-09 18:01:16 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-09 18:01:16 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-09 18:01:16 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-09 18:01:16 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-09 18:01:16 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-09 18:01:16 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-09 18:01:16 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-09 18:01:16 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-09 18:01:16 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-09 18:01:16 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-09 18:01:17 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-09 18:01:17 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-09 18:01:17 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-09 18:01:17 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-09 18:01:29 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-09 18:01:30 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-09 18:01:30 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-09 18:01:30 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-09 18:01:31 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-09 18:01:31 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-09 18:01:31 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-09 18:01:31 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-09 18:01:31 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-09 18:01:31 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-09 18:01:32 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-09 18:01:32 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-09 18:01:55 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-09 18:01:55 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-09 18:01:55 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-09 18:01:55 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-09 18:01:56 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-09 18:01:56 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-09 18:01:56 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-09 18:01:56 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-09 18:01:57 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-09 18:01:57 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-09 18:01:57 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-09 18:01:57 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-09 18:01:58 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-09 18:01:58 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-09 18:01:58 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-09 18:01:58 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-09 18:01:59 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-09 18:01:59 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-09 18:08:12 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-09 18:08:12 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-09 18:08:12 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-09 18:08:12 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-09 18:08:12 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-09 18:08:12 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-09 18:08:13 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-09 18:08:13 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-09 18:08:13 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-09 18:08:14 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-09 18:08:31 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-09 18:08:31 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-09 18:08:31 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-09 18:08:31 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-09 18:08:31 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-09 18:08:31 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-09 18:08:32 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-09 18:08:32 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-09 18:08:32 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-09 18:08:32 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-09 18:08:32 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-09 18:08:32 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-09 18:08:32 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-09 18:08:32 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-09 18:08:32 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-09 18:08:32 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-09 18:08:32 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-09 18:08:32 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-09 18:08:37 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-09 18:08:37 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-09 18:08:37 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-09 18:08:37 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-09 18:08:37 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-09 18:08:37 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-09 18:08:38 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-09 18:08:38 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-09 18:08:38 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-09 18:08:38 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-09 18:08:38 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-09 18:08:38 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-09 18:08:38 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-09 18:08:38 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-09 18:08:38 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-09 18:08:38 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-09 18:08:38 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-09 18:08:39 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-09 18:08:39 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-09 18:08:39 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-09 18:08:51 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-09 18:08:51 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-09 18:08:52 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-09 18:08:52 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-09 18:08:53 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-09 18:08:53 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-09 18:08:53 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-09 18:08:53 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-09 18:08:53 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-09 18:08:53 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-09 18:08:53 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-09 18:08:53 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-09 18:09:12 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-09 18:09:12 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-09 18:09:13 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-09 18:09:13 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-09 18:09:13 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-09 18:09:13 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-09 18:09:14 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-09 18:09:14 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-09 18:09:14 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-09 18:09:14 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-09 18:09:15 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-09 18:09:15 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-09 18:09:16 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-09 18:09:16 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-09 18:09:16 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-09 18:09:16 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-09 18:09:16 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-09 18:09:16 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-09 18:09:17 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-09 18:09:17 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-09 18:09:17 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-09 18:09:17 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-09 18:11:53 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-09 18:11:53 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-09 18:11:53 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-09 18:11:53 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-09 18:11:54 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-09 18:11:57 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-09 18:11:57 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-09 18:11:57 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-09 18:11:57 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-09 18:11:59 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-09 18:12:09 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-09 18:12:09 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-09 18:12:09 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-09 18:12:09 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-09 18:12:09 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-09 18:12:09 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-09 18:12:10 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-09 18:12:10 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-09 18:12:10 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-09 18:12:10 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-09 18:12:10 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-09 18:12:10 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-09 18:12:10 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-09 18:12:10 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-09 18:12:10 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-09 18:12:11 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-09 18:12:11 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-09 18:12:11 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-09 18:12:14 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-09 18:12:14 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-09 18:12:14 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-09 18:12:14 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-09 18:12:14 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-09 18:12:14 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-09 18:12:14 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-09 18:12:14 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-09 18:12:14 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-09 18:12:14 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-09 18:12:15 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-09 18:12:15 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-09 18:12:15 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-09 18:12:15 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-09 18:12:15 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-09 18:12:15 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-09 18:12:15 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-09 18:12:15 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-09 18:12:16 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-09 18:12:16 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-09 18:12:28 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-09 18:12:28 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-09 18:12:29 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-09 18:12:29 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-09 18:12:29 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-09 18:12:29 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-09 18:12:29 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-09 18:12:30 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-09 18:12:30 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-09 18:12:30 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-09 18:12:30 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-09 18:12:30 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-09 18:12:55 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-09 18:12:55 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-09 18:12:56 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-09 18:12:57 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-09 18:12:58 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-09 18:12:58 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-09 18:12:58 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-09 18:12:58 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-09 18:12:58 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-09 18:12:59 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-09 18:12:59 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-09 18:12:59 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-09 18:12:59 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-09 18:13:00 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-09 18:13:00 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-09 18:13:02 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-09 18:13:03 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-09 18:13:03 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-09 18:13:03 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-09 18:13:04 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-09 18:13:04 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-09 18:13:04 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-10 16:56:15 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-10 16:56:15 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-10 16:56:16 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-10 16:56:16 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-10 16:56:16 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-10 16:56:16 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-10 16:56:17 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-10 16:56:17 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-10 16:56:17 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-10 16:56:18 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-10 16:56:24 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-10 16:56:24 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-10 16:56:24 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-10 16:56:24 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-10 16:56:24 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-10 16:56:24 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-10 16:56:24 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-10 16:56:25 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-10 16:56:25 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-10 16:56:25 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-10 16:56:25 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-10 16:56:25 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-10 16:56:25 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-10 16:56:25 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-10 16:56:25 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-10 16:56:25 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-10 16:56:26 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-10 16:56:26 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-10 16:56:27 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-10 16:56:27 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-10 16:56:27 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-10 16:56:27 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-10 16:56:28 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-10 16:56:28 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-10 16:56:28 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-10 16:56:28 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-10 16:56:28 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-10 16:56:28 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-10 16:56:28 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-10 16:56:28 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-10 16:56:28 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-10 16:56:28 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-10 16:56:28 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-10 16:56:29 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-10 16:56:29 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-10 16:56:29 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-10 16:56:30 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-10 16:56:41 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-10 16:56:42 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-10 16:56:42 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-10 16:56:42 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-10 16:56:43 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-10 16:56:43 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-10 16:56:43 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-10 16:56:44 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-10 16:56:48 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-10 16:56:48 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-10 16:56:49 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-10 16:56:49 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-10 16:56:58 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-10 16:56:58 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-10 16:56:58 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-10 16:56:59 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-10 16:56:59 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-10 16:56:59 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-10 16:57:00 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-10 16:57:00 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-10 16:57:00 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-10 16:57:00 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-10 16:57:00 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-10 16:57:01 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-10 16:57:01 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-10 16:57:01 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-10 16:57:01 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-10 16:57:01 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-10 16:57:01 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-10 16:57:01 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-10 16:57:02 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-10 16:57:02 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-10 16:57:02 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-10 16:57:02 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-10 16:58:01 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-10 16:58:01 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-10 16:58:01 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-10 16:58:01 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-10 16:58:01 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-10 16:58:01 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-10 16:58:01 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-10 16:58:01 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-10 16:58:02 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-10 16:58:02 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-10 16:58:08 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-10 16:58:08 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-10 16:58:09 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-10 16:58:09 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-10 16:58:09 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-10 16:58:09 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-10 16:58:09 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-10 16:58:09 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-10 16:58:09 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-10 16:58:10 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-10 16:58:10 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-10 16:58:10 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-10 16:58:10 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-10 16:58:10 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-10 16:58:11 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-10 16:58:11 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-10 16:58:11 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-10 16:58:11 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-10 16:58:11 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-10 16:58:12 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-10 16:58:12 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-10 16:58:12 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-10 16:58:12 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-10 16:58:12 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-10 16:58:12 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-10 16:58:12 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-10 16:58:13 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-10 16:58:13 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-10 16:58:13 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-10 16:58:13 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-10 16:58:13 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-10 16:58:14 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-10 16:58:14 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-10 16:58:14 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-10 16:58:14 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-10 16:58:15 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-10 16:58:15 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-10 16:58:25 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-10 16:58:27 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-10 16:58:27 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-10 16:58:27 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-10 16:58:27 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-10 16:58:27 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-10 16:58:27 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-10 16:58:29 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-10 16:58:29 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-10 16:58:29 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-10 16:58:29 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-10 16:58:29 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-10 16:58:42 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-10 16:58:42 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-10 16:58:42 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-10 16:58:43 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-10 16:58:44 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-10 16:58:44 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-10 16:58:44 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-10 16:58:45 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-10 16:58:45 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-10 16:58:45 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-10 16:58:45 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-10 16:58:46 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-10 16:58:46 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-10 16:58:47 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-10 16:58:47 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-10 16:58:48 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-10 16:58:48 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-10 16:58:48 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-10 16:58:48 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-10 16:58:49 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-10 16:58:49 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-10 16:58:49 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-10 17:00:44 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-10 17:00:44 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-10 17:00:44 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-10 17:00:44 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-10 17:00:45 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-10 17:00:45 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-10 17:00:45 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-10 17:00:45 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-10 17:00:46 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-10 17:00:46 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-10 17:00:53 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-10 17:00:53 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-10 17:00:54 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-10 17:00:54 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-10 17:00:54 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-10 17:00:54 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-10 17:00:55 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-10 17:00:55 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-10 17:00:55 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-10 17:00:56 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-10 17:00:56 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-10 17:00:56 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-10 17:00:56 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-10 17:00:57 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-10 17:00:57 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-10 17:00:57 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-10 17:00:57 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-10 17:00:57 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-10 17:01:01 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-10 17:01:01 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-10 17:01:01 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-10 17:01:01 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-10 17:01:01 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-10 17:01:01 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-10 17:01:02 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-10 17:01:02 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-10 17:01:02 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-10 17:01:03 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-10 17:01:03 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-10 17:01:04 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-10 17:01:04 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-10 17:01:04 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-10 17:01:04 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-10 17:01:04 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-10 17:01:05 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-10 17:01:05 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-10 17:01:14 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-10 17:01:16 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-10 17:01:17 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-10 17:01:17 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-10 17:01:17 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-10 17:01:17 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-10 17:01:19 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-10 17:01:19 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-10 17:01:19 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-10 17:01:27 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-10 17:01:27 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-10 17:01:32 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-10 17:01:33 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-10 17:01:33 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-10 17:01:34 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-10 17:01:34 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-10 17:01:35 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-10 17:01:35 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-10 17:01:35 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-10 17:01:35 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-10 17:01:35 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-10 17:01:35 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-10 17:01:37 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-10 17:01:37 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-10 17:01:38 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-10 17:01:39 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-10 17:01:39 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-10 17:01:39 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-10 17:01:40 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-10 17:01:40 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-10 17:01:40 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-10 17:01:40 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-10 17:01:40 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-10 17:03:17 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-10 17:03:18 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-10 17:03:18 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-10 17:03:18 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-10 17:03:18 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-10 17:03:28 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-10 17:03:28 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-10 17:03:28 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-10 17:03:28 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-10 17:03:29 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-10 17:03:29 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-10 17:03:29 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-10 17:03:29 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-10 17:03:29 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-10 17:03:31 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-10 17:03:31 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-10 17:03:31 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-10 17:03:31 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-10 17:03:31 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-10 17:03:31 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-10 17:03:31 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-10 17:03:32 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-10 17:03:32 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-10 17:03:44 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-10 17:03:44 INFO  FCA_Test_Class_1:143 - User selected Year Value 1
+2026-10-10 17:03:45 INFO  FCA_Test_Class_1:146 - User selected Year Value 2
+2026-10-10 17:03:45 INFO  FCA_Test_Class_1:149 - User selected Year Value 3
+2026-10-10 17:03:45 INFO  FCA_Test_Class_1:152 - User closed Year section
+2026-10-10 17:03:45 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-10 17:03:45 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-10 17:03:45 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-10 17:03:50 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-10 17:03:50 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-10 17:04:00 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-10 17:04:00 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-10 17:04:00 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-10 17:04:01 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-10 17:04:01 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-10 17:04:02 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-10 17:04:02 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-10 17:04:02 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-10 17:04:03 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-10 17:04:03 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-10 17:04:03 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-10 17:05:07 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-10 17:05:07 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-10 17:05:07 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-10 17:05:07 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-10 17:05:08 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-10 17:05:08 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-10 17:05:08 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-10 17:05:09 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-10 17:05:09 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-10 17:05:09 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-10 17:05:15 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-10 17:05:15 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-10 17:05:15 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-10 17:05:15 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-10 17:05:15 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-10 17:05:15 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-10 17:05:16 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-10 17:05:16 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-10 17:05:16 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-10 17:05:16 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-10 17:05:16 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-10 17:05:16 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-10 17:05:16 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-10 17:05:17 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-10 17:05:17 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-10 17:05:17 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-10 17:05:17 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-10 17:05:17 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-10 17:05:17 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-10 17:05:17 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-10 17:05:18 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-10 17:05:18 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-10 17:05:18 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-10 17:05:18 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-10 17:05:18 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-10 17:05:18 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-10 17:05:19 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-10 17:05:19 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-10 17:05:19 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-10 17:05:19 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-10 17:05:20 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-10 17:05:20 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-10 17:05:20 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-10 17:05:20 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-10 17:05:20 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-10 17:05:21 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-10 17:05:21 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-10 17:05:31 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-10 17:05:32 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-10 17:05:33 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-10 17:05:33 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-10 17:05:33 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-10 17:05:35 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-10 17:05:35 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-10 17:05:35 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-10 17:05:35 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-10 17:05:35 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-10 17:05:39 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-10 17:05:39 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-10 17:05:48 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-10 17:05:49 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-10 17:05:49 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-10 17:05:50 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-10 17:05:50 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-10 17:05:51 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-10 17:05:51 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-10 17:05:51 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-10 17:05:51 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-10 17:05:51 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-10 17:05:52 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-10 17:05:52 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-10 17:05:52 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-10 17:05:52 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-10 17:05:52 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-10 17:05:52 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-10 17:05:53 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-10 17:05:53 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-10 17:05:53 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-10 17:05:53 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-10 17:05:54 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-10 17:05:54 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-10 17:09:48 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-10 17:09:49 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-10 17:09:49 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-10 17:09:49 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-10 17:09:49 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-10 17:09:49 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-10 17:09:49 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-10 17:09:49 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-10 17:09:50 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-10 17:09:50 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-10 17:10:04 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-10 17:10:04 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-10 17:10:05 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-10 17:10:05 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-10 17:10:05 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-10 17:10:05 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-10 17:10:05 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-10 17:10:05 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-10 17:10:05 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-10 17:10:05 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-10 17:10:05 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-10 17:10:05 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-10 17:10:05 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-10 17:10:06 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-10 17:10:06 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-10 17:10:06 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-10 17:10:06 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-10 17:10:06 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-10 17:10:07 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-10 17:10:07 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-10 17:10:08 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-10 17:10:08 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-10 17:10:08 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-10 17:10:08 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-10 17:10:08 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-10 17:10:09 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-10 17:10:09 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-10 17:10:12 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-10 17:10:12 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-10 17:10:12 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-10 17:10:12 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-10 17:10:12 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-10 17:10:12 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-10 17:10:13 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-10 17:10:13 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-10 17:10:13 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-10 17:10:13 INFO  FCA_Test_Class_1:126 - User clicked Show Less Dealer
+2026-10-10 17:10:22 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-10 17:10:23 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-10 17:10:23 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-10 17:10:24 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-10 17:10:24 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-10 17:10:24 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-10 17:10:26 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-10 17:10:27 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-10 17:10:27 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-10 17:10:27 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-10 17:10:27 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-10 17:10:27 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-10 17:10:38 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-10 17:10:39 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-10 17:10:39 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-10 17:10:40 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-10 17:10:40 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-10 17:10:41 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-10 17:10:41 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-10 17:10:41 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-10 17:10:42 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-10 17:10:42 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-10 17:10:42 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-10 17:10:43 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-10 17:10:44 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-10 17:10:44 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-10 17:10:44 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-10 17:10:45 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-10 17:10:45 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-10 17:10:46 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-10 17:10:46 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-10 17:10:46 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-10 17:10:46 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-10 17:10:46 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-12 17:22:31 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-12 17:22:31 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-12 17:22:31 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-12 17:22:31 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-12 17:22:31 INFO  FCA_Test_Class_1:19 - User Landed to FCA Certified Home Page
+2026-10-12 17:22:31 INFO  FCA_Test_Class_1:24 - User clicked on Cookie Popup
+2026-10-12 17:22:32 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-12 17:22:32 INFO  FCA_Test_Class_1:27 - User clicked on Zip Code Field
+2026-10-12 17:22:32 INFO  FCA_Test_Class_1:30 - User entered the Zip Code
+2026-10-12 17:22:32 INFO  FCA_Test_Class_1:33 - User clicked on Brand Logos
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:36 - User clicked on Submit Button
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:38 - Redirected to SNI Page
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:53 - SNI Page loaded successfully
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:61 - User clicked on GoCPOV checkbox
+2026-10-12 17:22:38 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-12 17:22:39 INFO  FCA_Test_Class_1:64 - User clicked on CPOV checkbox
+2026-10-12 17:22:39 INFO  FCA_Test_Class_1:67 - User clicked on GoCPOV again
+2026-10-12 17:22:39 INFO  FCA_Test_Class_1:75 - User clicked on Zip Code Text Box
+2026-10-12 17:22:39 INFO  FCA_Test_Class_1:78 - User cleared the Zip Code
+2026-10-12 17:22:39 INFO  FCA_Test_Class_1:81 - User entered the Zip Code
+2026-10-12 17:22:40 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-12 17:22:40 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-12 17:22:40 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-12 17:22:40 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-12 17:22:40 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-12 17:22:40 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-12 17:22:40 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-12 17:22:40 INFO  FCA_Test_Class_1:84 - User updated the Zip Code
+2026-10-12 17:22:40 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-12 17:22:41 INFO  FCA_Test_Class_1:92 - User clicked on Partial Matches
+2026-10-12 17:22:41 INFO  FCA_Test_Class_1:95 - User clicked on Exact Matches
+2026-10-12 17:22:41 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-12 17:22:41 INFO  FCA_Test_Class_1:103 - User clicked on Sort By
+2026-10-12 17:22:41 INFO  FCA_Test_Class_1:106 - User selected Sort By Value 1
+2026-10-12 17:22:41 INFO  FCA_Test_Class_1:109 - User selected Sort By Value 2
+2026-10-12 17:22:41 INFO  FCA_Test_Class_1:112 - User selected Sort By Value 3
+2026-10-12 17:22:41 INFO  FCA_Test_Class_1:120 - User opened Dealer section
+2026-10-12 17:22:42 INFO  FCA_Test_Class_1:123 - User clicked Show All Dealer
+2026-10-12 17:22:53 INFO  FCA_Test_Class_1:140 - User opened Year section
+2026-10-12 17:22:53 INFO  FCA_Test_Class_1:143 - User selected Year Value 1
+2026-10-12 17:22:53 INFO  FCA_Test_Class_1:146 - User selected Year Value 2
+2026-10-12 17:22:53 INFO  FCA_Test_Class_1:149 - User selected Year Value 3
+2026-10-12 17:22:54 INFO  FCA_Test_Class_1:152 - User closed Year section
+2026-10-12 17:22:54 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-12 17:22:54 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-12 17:22:54 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-12 17:22:55 INFO  FCA_Test_Class_1:160 - User opened Drive section
+2026-10-12 17:22:55 INFO  FCA_Test_Class_1:163 - User closed Drive section
+2026-10-12 17:22:55 INFO  FCA_Test_Class_1:171 - User clicked Reset Filter
+2026-10-12 17:22:55 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-12 17:22:55 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-12 17:23:00 INFO  FCA_Test_Class_1:179 - User clicked Continue Shopping
+2026-10-12 17:23:00 INFO  FCA_Test_Class_1:181 - User redirected to VDP Page
+2026-10-12 17:23:10 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-12 17:23:10 INFO  FCA_Test_Class_1:195 - User closed Initial PopUp
+2026-10-12 17:23:10 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-12 17:23:11 INFO  FCA_Test_Class_1:203 - User clicked on CASH TAB
+2026-10-12 17:23:11 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-12 17:23:11 INFO  FCA_Test_Class_1:211 - User opened Test Drive section
+2026-10-12 17:23:11 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-12 17:23:12 INFO  FCA_Test_Class_1:214 - User closed Test Drive section
+2026-10-12 17:23:12 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-12 17:23:12 INFO  FCA_Test_Class_1:222 - User opened Payment Calculator
+2026-10-12 17:23:12 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-12 17:23:12 INFO  FCA_Test_Class_1:225 - User clicked Continue
+2026-10-12 17:23:12 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-12 17:23:12 INFO  FCA_Test_Class_1:228 - User closed Payment Calculator
+2026-10-12 17:23:13 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-12 17:23:13 INFO  FCA_Test_Class_1:236 - User clicked Trade In
+2026-10-12 17:23:13 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-12 17:23:13 INFO  FCA_Test_Class_1:244 - User clicked Service & Protection
+2026-10-12 17:23:13 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-12 17:23:13 INFO  FCA_Test_Class_1:254 - User reached DRS tab
+2026-10-12 17:23:13 INFO  FCA_Test_Class_1:252 - User clicked Delivery Review & Submit
+2026-10-12 17:23:13 INFO  FCA_Test_Class_1:254 - User reached DRS tab

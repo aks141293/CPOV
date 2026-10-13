@@ -116,7 +116,7 @@ public class FCA_SNI_Page
     
     public void EnterTheZipCode()
     {
-    	EnterZipCode.sendKeys("33765");
+    	EnterZipCode.sendKeys("90001");
     }
     
     public void UpdateTheZipCode()
