@@ -51,7 +51,7 @@ public class FCA_SNI_Page
    
    @FindBy(xpath="//div[@class='see-less']") private WebElement ShowLessDealer;
    
-   @FindBy(xpath="(//input[@id='dealersCode'])[1]") private WebElement CheckDealerCheckBox;
+   @FindBy(xpath="(//span[@class='checkmark'])[3]") private WebElement CheckDealerCheckBox;
    
    @FindBy(xpath="(//span[@class='checkmark'])[3]") private WebElement UncheckDealerCheckBox;
    
@@ -116,7 +116,7 @@ public class FCA_SNI_Page
     
     public void EnterTheZipCode()
     {
-    	EnterZipCode.sendKeys("90001");
+    	EnterZipCode.sendKeys("33765");
     }
     
     public void UpdateTheZipCode()
