@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="18" passed="17" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-10-18T16:37:53 IST" name="Suite" finished-at="2026-10-18T16:38:43 IST" duration-ms="49143">
+  <suite started-at="2026-11-05T17:54:07 IST" name="Suite" finished-at="2026-11-05T17:54:48 IST" duration-ms="41351">
     <groups>
     </groups>
-    <test started-at="2026-10-18T16:37:53 IST" name="Test_Edge" finished-at="2026-10-18T16:38:43 IST" duration-ms="49143">
+    <test started-at="2026-11-05T17:54:07 IST" name="Test_Edge" finished-at="2026-11-05T17:54:48 IST" duration-ms="41351">
       <class name="Module_1_CPOV_Test_Classes.FCA_Test_Class_1">
-        <test-method is-config="true" signature="OpenBrowser(java.lang.String)[pri:0, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:37:54 IST" name="OpenBrowser" finished-at="2026-10-18T16:37:58 IST" duration-ms="4800" status="PASS">
+        <test-method is-config="true" signature="OpenBrowser(java.lang.String)[pri:0, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:07 IST" name="OpenBrowser" finished-at="2026-11-05T17:54:13 IST" duration-ms="5988" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,53 +18,57 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBrowser -->
-        <test-method signature="VerifytheHomePage()[pri:1, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:37:58 IST" name="VerifytheHomePage" finished-at="2026-10-18T16:38:05 IST" duration-ms="6884" status="PASS">
+        <test-method signature="VerifytheHomePage()[pri:1, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:13 IST" name="VerifytheHomePage" finished-at="2026-11-05T17:54:21 IST" duration-ms="7967" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifytheHomePage -->
-        <test-method signature="VerifySNIPage()[pri:2, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:05 IST" name="VerifySNIPage" finished-at="2026-10-18T16:38:05 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifytheHomePage" duration-ms="113" status="PASS">
+        <test-method signature="VerifySNIPage()[pri:2, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:21 IST" name="VerifySNIPage" finished-at="2026-11-05T17:54:21 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifytheHomePage" duration-ms="235" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifySNIPage -->
-        <test-method signature="VerifyCPOVSelection()[pri:3, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:05 IST" name="VerifyCPOVSelection" finished-at="2026-10-18T16:38:06 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="303" status="PASS">
+        <test-method signature="VerifyCPOVSelection()[pri:3, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:21 IST" name="VerifyCPOVSelection" finished-at="2026-11-05T17:54:22 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="367" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyCPOVSelection -->
-        <test-method signature="VerifyZipCodeUpdate()[pri:4, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:06 IST" name="VerifyZipCodeUpdate" finished-at="2026-10-18T16:38:08 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="2668" status="PASS">
+        <test-method signature="VerifyZipCodeUpdate()[pri:4, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:22 IST" name="VerifyZipCodeUpdate" finished-at="2026-11-05T17:54:24 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="2148" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyZipCodeUpdate -->
-        <test-method signature="VerifyMatchFilters()[pri:5, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:08 IST" name="VerifyMatchFilters" finished-at="2026-10-18T16:38:09 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="242" status="PASS">
+        <test-method signature="VerifyMatchFilters()[pri:5, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:24 IST" name="VerifyMatchFilters" finished-at="2026-11-05T17:54:24 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="398" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyMatchFilters -->
-        <test-method signature="VerifySortByFunctionality()[pri:6, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:09 IST" name="VerifySortByFunctionality" finished-at="2026-10-18T16:38:09 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="269" status="PASS">
+        <test-method signature="VerifySortByFunctionality()[pri:6, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:24 IST" name="VerifySortByFunctionality" finished-at="2026-11-05T17:54:24 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="321" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifySortByFunctionality -->
-        <test-method signature="VerifyDealerFilter()[pri:7, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:09 IST" name="VerifyDealerFilter" finished-at="2026-10-18T16:38:24 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="15474" status="FAIL">
-          <exception class="org.openqa.selenium.ElementNotInteractableException">
+        <test-method signature="VerifyDealerFilter()[pri:7, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:24 IST" name="VerifyDealerFilter" finished-at="2026-11-05T17:54:25 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDealerFilter -->
+        <test-method signature="VerifyYearFilter()[pri:8, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:25 IST" name="VerifyYearFilter" finished-at="2026-11-05T17:54:27 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="1368" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
             <message>
-              <![CDATA[element not interactable
-  (Session info: MicrosoftEdge=155.0.4283.62)
+              <![CDATA[element click intercepted: Element <span class="radiomark"></span> is not clickable at point (75, 450). Other element would receive the click: <label class="filter_parmeter_heading" for="max_price_filter" tabindex="0">...</label>
+  (Session info: MicrosoftEdge=156.0.4314.58)
 Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.2'
 Driver info: org.openqa.selenium.edge.EdgeDriver
-Command: [f583a29b8235ea66eb2890d9d7b1ab55, clickElement {id=f.F4F12C279C51A13B44ECF0960E000035.d.0F530D7C2A30EC0427C49030B1DA1F13.e.524}]
-Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 155.0.4283.62, fedcm:accounts: true, goog:processID: 11076, ms:edgeOptions: {debuggerAddress: localhost:49835}, msedge: {msedgedriverVersion: 155.0.4283.62 (aa3a7406ba8c..., userDataDir: C:\Users\AKASHK~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49835/devtoo..., se:cdpVersion: 155.0.4283.62, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[EdgeDriver: MicrosoftEdge on windows (f583a29b8235ea66eb2890d9d7b1ab55)] -> xpath: //div[@class='see-less']]
-Session ID: f583a29b8235ea66eb2890d9d7b1ab55]]>
+Command: [d08e68484733fd4f8fc04fe4e2f5f5b9, clickElement {id=f.50C4D1D204BACEEF31558478FFFC5B9B.d.192B881422C12769B12D065581CABAAC.e.371}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 156.0.4314.58, fedcm:accounts: true, goog:processID: 13060, ms:edgeOptions: {debuggerAddress: localhost:54241}, msedge: {msedgedriverVersion: 156.0.4314.58 (7806b68d20d1..., userDataDir: C:\Users\AKASHK~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54241/devtoo..., se:cdpVersion: 156.0.4314.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (d08e68484733fd4f8fc04fe4e2f5f5b9)] -> xpath: (//span[@class='radiomark'])[1]]
+Session ID: d08e68484733fd4f8fc04fe4e2f5f5b9]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
-  (Session info: MicrosoftEdge=155.0.4283.62)
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="radiomark"></span> is not clickable at point (75, 450). Other element would receive the click: <label class="filter_parmeter_heading" for="max_price_filter" tabindex="0">...</label>
+  (Session info: MicrosoftEdge=156.0.4314.58)
 Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.2'
 Driver info: org.openqa.selenium.edge.EdgeDriver
-Command: [f583a29b8235ea66eb2890d9d7b1ab55, clickElement {id=f.F4F12C279C51A13B44ECF0960E000035.d.0F530D7C2A30EC0427C49030B1DA1F13.e.524}]
-Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 155.0.4283.62, fedcm:accounts: true, goog:processID: 11076, ms:edgeOptions: {debuggerAddress: localhost:49835}, msedge: {msedgedriverVersion: 155.0.4283.62 (aa3a7406ba8c..., userDataDir: C:\Users\AKASHK~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49835/devtoo..., se:cdpVersion: 155.0.4283.62, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[EdgeDriver: MicrosoftEdge on windows (f583a29b8235ea66eb2890d9d7b1ab55)] -> xpath: //div[@class='see-less']]
-Session ID: f583a29b8235ea66eb2890d9d7b1ab55
+Command: [d08e68484733fd4f8fc04fe4e2f5f5b9, clickElement {id=f.50C4D1D204BACEEF31558478FFFC5B9B.d.192B881422C12769B12D065581CABAAC.e.371}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 156.0.4314.58, fedcm:accounts: true, goog:processID: 13060, ms:edgeOptions: {debuggerAddress: localhost:54241}, msedge: {msedgedriverVersion: 156.0.4314.58 (7806b68d20d1..., userDataDir: C:\Users\AKASHK~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54241/devtoo..., se:cdpVersion: 156.0.4314.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (d08e68484733fd4f8fc04fe4e2f5f5b9)] -> xpath: (//span[@class='radiomark'])[1]]
+Session ID: d08e68484733fd4f8fc04fe4e2f5f5b9
 at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
 at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
 at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
@@ -78,8 +82,8 @@ at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethod
 at java.base/java.lang.reflect.Method.invoke(Method.java:565)
 at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
 at jdk.proxy2/jdk.proxy2.$Proxy31.click(Unknown Source)
-at Module_1_CPOV.FCA_SNI_Page.ClickOnShowLessDealer(FCA_SNI_Page.java:169)
-at Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyDealerFilter(FCA_Test_Class_1.java:125)
+at Module_1_CPOV.FCA_SNI_Page.ClickOnYearValue1(FCA_SNI_Page.java:189)
+at Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyYearFilter(FCA_Test_Class_1.java:142)
 at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 at java.base/java.lang.reflect.Method.invoke(Method.java:565)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
@@ -102,55 +106,51 @@ at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecut
 at java.base/java.lang.Thread.run(Thread.java:1474)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- VerifyDealerFilter -->
-        <test-method signature="VerifyYearFilter()[pri:8, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:24 IST" name="VerifyYearFilter" finished-at="2026-10-18T16:38:25 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="636" status="PASS">
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyYearFilter -->
-        <test-method signature="VerifyDriveSection()[pri:9, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:25 IST" name="VerifyDriveSection" finished-at="2026-10-18T16:38:25 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="175" status="PASS">
+        <test-method signature="VerifyDriveSection()[pri:9, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:27 IST" name="VerifyDriveSection" finished-at="2026-11-05T17:54:27 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="204" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyDriveSection -->
-        <test-method signature="VerifyResetFilter()[pri:10, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:25 IST" name="VerifyResetFilter" finished-at="2026-10-18T16:38:25 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="133" status="PASS">
+        <test-method signature="VerifyResetFilter()[pri:10, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:27 IST" name="VerifyResetFilter" finished-at="2026-11-05T17:54:27 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="213" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyResetFilter -->
-        <test-method signature="VerifyContinueShopping()[pri:11, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:25 IST" name="VerifyContinueShopping" finished-at="2026-10-18T16:38:25 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="62" status="PASS">
+        <test-method signature="VerifyContinueShopping()[pri:11, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:27 IST" name="VerifyContinueShopping" finished-at="2026-11-05T17:54:27 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifySNIPage" duration-ms="113" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyContinueShopping -->
-        <test-method signature="VerifyVDPPage()[pri:12, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:25 IST" name="VerifyVDPPage" finished-at="2026-10-18T16:38:39 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyContinueShopping" duration-ms="14035" status="PASS">
+        <test-method signature="VerifyVDPPage()[pri:12, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:27 IST" name="VerifyVDPPage" finished-at="2026-11-05T17:54:44 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyContinueShopping" duration-ms="16462" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyVDPPage -->
-        <test-method signature="VerifyCashTab()[pri:13, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:39 IST" name="VerifyCashTab" finished-at="2026-10-18T16:38:40 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyVDPPage" duration-ms="389" status="PASS">
+        <test-method signature="VerifyCashTab()[pri:13, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:44 IST" name="VerifyCashTab" finished-at="2026-11-05T17:54:44 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyVDPPage" duration-ms="438" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyCashTab -->
-        <test-method signature="VerifyTestDriveSection()[pri:14, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:40 IST" name="VerifyTestDriveSection" finished-at="2026-10-18T16:38:41 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyVDPPage" duration-ms="836" status="PASS">
+        <test-method signature="VerifyTestDriveSection()[pri:14, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:44 IST" name="VerifyTestDriveSection" finished-at="2026-11-05T17:54:45 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyVDPPage" duration-ms="923" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyTestDriveSection -->
-        <test-method signature="VerifyPaymentCalculator()[pri:15, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:41 IST" name="VerifyPaymentCalculator" finished-at="2026-10-18T16:38:42 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyVDPPage" duration-ms="883" status="PASS">
+        <test-method signature="VerifyPaymentCalculator()[pri:15, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:45 IST" name="VerifyPaymentCalculator" finished-at="2026-11-05T17:54:47 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyVDPPage" duration-ms="1728" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyPaymentCalculator -->
-        <test-method signature="VerifyTradeIn()[pri:16, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:42 IST" name="VerifyTradeIn" finished-at="2026-10-18T16:38:42 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyVDPPage" duration-ms="227" status="PASS">
+        <test-method signature="VerifyTradeIn()[pri:16, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:47 IST" name="VerifyTradeIn" finished-at="2026-11-05T17:54:47 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyVDPPage" duration-ms="405" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyTradeIn -->
-        <test-method signature="VerifyServiceAndProtection()[pri:17, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:42 IST" name="VerifyServiceAndProtection" finished-at="2026-10-18T16:38:42 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyVDPPage" duration-ms="104" status="PASS">
+        <test-method signature="VerifyServiceAndProtection()[pri:17, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:47 IST" name="VerifyServiceAndProtection" finished-at="2026-11-05T17:54:48 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyVDPPage" duration-ms="147" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyServiceAndProtection -->
-        <test-method signature="VerifyDeliveryReviewAndSubmit()[pri:18, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:42 IST" name="VerifyDeliveryReviewAndSubmit" finished-at="2026-10-18T16:38:42 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyVDPPage" duration-ms="107" status="PASS">
+        <test-method signature="VerifyDeliveryReviewAndSubmit()[pri:18, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:48 IST" name="VerifyDeliveryReviewAndSubmit" finished-at="2026-11-05T17:54:48 IST" depends-on-methods="Module_1_CPOV_Test_Classes.FCA_Test_Class_1.VerifyVDPPage" duration-ms="123" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyDeliveryReviewAndSubmit -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-10-18T16:38:42 IST" name="CloseBrowser" finished-at="2026-10-18T16:38:43 IST" duration-ms="510" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Module_1_CPOV_Test_Classes.FCA_Test_Class_1@6b927fb]" started-at="2026-11-05T17:54:48 IST" name="CloseBrowser" finished-at="2026-11-05T17:54:48 IST" duration-ms="427" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
